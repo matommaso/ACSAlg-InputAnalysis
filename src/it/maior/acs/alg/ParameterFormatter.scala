@@ -1,4 +1,5 @@
-package it.maior.acs.alg.parameter
+package it.maior.acs.alg
+
 import java.io.{File, PrintWriter}
 
 import scala.io.Source
